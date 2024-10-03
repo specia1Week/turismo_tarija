@@ -1,0 +1,49 @@
+body {
+    background-color: #2e8b57; /* Verde */
+    color: #f5f5dc; /* Crema */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #daa520; /* Dorado */
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+p, ul {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+iframe {
+    border: 1px solid #daa520;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.1em;
+}
+.pdf-container {
+    width: 100%;
+    height: 800px; /* Altura aumentada a 800px */
+    border: none;
+}
